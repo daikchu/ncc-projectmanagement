@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ncc.projectmanagement",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.6.0",
+    "applicationType": "monolith",
+    "baseName": "projectmanagement",
+    "packageName": "com.ncc.projectmanagement",
+    "packageFolder": "com/ncc/projectmanagement",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NmNmNzYxYjJlNmYyNjg3OWFlZTFjMmFjOWIzMzhlZjUyOGMxNTFjMGI4YzljZGM5YWI3YmJlNWM4YWIzMWY5ZTg2MDVhYmIxYTllZjU3ZDA0YjZlMjI0ODk5ZTRlMjgyZWE2NzFhMzAzODM2ZWM0OWRkOWJiYzFkMTkxMjcxNGE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
